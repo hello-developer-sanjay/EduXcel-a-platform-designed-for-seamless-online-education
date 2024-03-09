@@ -20,7 +20,7 @@
     "@vercel/speed-insights": "^1.0.2",
 
     "antd": "^5.8.6",
-    "axios": "^1.5.0",
+    "axios": "^1.6.0",
 "react-modal-image": "^2.6.0",
     "framer-motion": "^10.16.3",
     "react": "^18.2.0",
